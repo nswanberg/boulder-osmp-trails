@@ -32,3 +32,6 @@ __pycache__
 env/*
 *secrets*.txt
 *.pickle
+
+#vim
+*.swp
